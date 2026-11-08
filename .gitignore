@@ -1,0 +1,14 @@
+/target/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+/tg_config.txt
+/tg_api.txt
+/donatepay_api.txt
+/proxies.txt
+/players.txt
+/targeted_lic.txt
+/targeted_nolic.txt
+.env
+.env.*
